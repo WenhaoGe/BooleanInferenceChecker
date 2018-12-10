@@ -1,0 +1,19 @@
+﻿  Main.cpp
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(161): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(192): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(419): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(470): warning C4101: 'mem': unreferenced local variable
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(467): warning C4101: 'sum': unreferenced local variable
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(691): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(694): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(809): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(800): warning C4101: 'judge': unreferenced local variable
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(831): warning C4101: 'judge': unreferenced local variable
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(831): warning C4101: 'trueOrNot1': unreferenced local variable
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(856): warning C4101: 'judge': unreferenced local variable
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(432): warning C4715: 'Lvar': not all control paths return a value
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(606): warning C4715: 'eval': not all control paths return a value
+d:\visual studio projects\datastructureproject2\datastructureproject2\main.cpp(872): warning C4715: 'validInference': not all control paths return a value
+  DataStructureProject2.vcxproj -> D:\Visual Studio Projects\DataStructureProject2\Debug\DataStructureProject2.exe
+  DataStructureProject2.vcxproj -> D:\Visual Studio Projects\DataStructureProject2\Debug\DataStructureProject2.pdb (Partial PDB)
